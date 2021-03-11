@@ -34,6 +34,10 @@ app.get('/premium', (req, res) => {
   res.redirect('https://www.patreon.com/join/dankmemerbot');
 });
 
+app.get('/community', (req, res) => {
+  res.redirect('https://discord.gg/memers');
+}
+
 require('./util/db.js')().then(db => {
   const Routers = require('./routers');
 
