@@ -16,7 +16,7 @@ export default function Terms() {
 			</div>
 			<div className="legal-paragraph">
 				<p className="legal-paragraph-body">
-					Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the https://www.dankmemer.lol
+					Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the <a href="https://www.dankmemer.lol">dankmemer.lol<a>
 					website (the "Service") operated by Melms Media LLC ("us", "we", or "our").
 				</p>
 				<p className="legal-paragraph-body">
